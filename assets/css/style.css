@@ -1,0 +1,37 @@
+body{
+  background-image: url(../img/thumb-1920-572146.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 10%;
+}
+
+#formulario{
+  /*margin: 15%;*/
+  border-radius: 7px;
+  padding: 5%;
+  background-color: rgba(0,0,255, 0.6);
+}
+
+#first_name label{
+  color: #FFFFFF;
+}
+
+#datos{
+  color: #FFFFFF;
+  font-weight: 600;
+}
+
+#data{
+  color: #FFFFFF;
+  font-weight: 600;
+}
+
+.btn{
+  margin: 2%;
+  background-color: blue;
+}
+
+.btn:hover {
+  background-color: blue;
+}
